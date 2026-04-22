@@ -18,4 +18,4 @@ jobs:
 
       - name: run app
         working-directory: hello-world
-        run: go run main.go
+        run: go run hello-world.go
